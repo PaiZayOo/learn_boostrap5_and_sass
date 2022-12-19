@@ -1,0 +1,17 @@
+{
+  "name": "learn_boostrap5",
+  "version": "1.0.0",
+  "description": "learning boostrap5 and sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "author": "pai zay oo",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.0.0",
+    "font-awesome": "^4.7.0",
+    "sass": "^1.57.0"
+  }
+}
